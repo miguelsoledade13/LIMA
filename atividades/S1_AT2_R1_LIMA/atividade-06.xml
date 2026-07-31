@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<escola>
+    <aluno  matricula="202501" curso="informática">
+       <nome>Lucas &amp; Ana</nome>
+        <Disciplinas>
+            <Disciplina>Banco de dados</Disciplina>
+            <Disciplina>Lógica de programação</Disciplina/>
+        </Disciplinas>
+    </aluno>
+</escola>
