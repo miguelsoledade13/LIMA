@@ -1,0 +1,48 @@
+
+
+h1{
+    color : lab(32.62% 78.4 -105.63 / 0.696);
+}
+h1 {
+    text-align: right;
+}
+p{
+    color : rgba(128, 0, 0, 0.696);
+}
+h2 {
+    text-align: center;
+}
+h2{
+    color : rgba(10, 120, 93, 0.696);
+}
+p{
+    color : rgba(128, 0, 0, 0.696);
+}
+
+h3{
+    color : rgba(244, 121, 14, 0.696);
+}
+p{
+    color : rgba(128, 0, 0, 0.696);
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ Footer {
+        background-color: #31b214;
+        padding: 30px;
+        text-align: center;
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+       }
+
+       .imagem-direita {
+    width: 150px;      
+    float: right;      
+    margin: 20px;     
+}
