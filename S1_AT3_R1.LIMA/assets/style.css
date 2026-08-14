@@ -1,0 +1,28 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   background-color: lightblue;
+   background-image: url(https://down-br.img.susercontent.com/file/br-11134207-81ztc-mkeq2xo79dkx7a);
+   background-size: 1050px 500px;
+}
+
+
+
+#paragrafo{
+    color: rgb(255, 0, 204);;
+    font-size: 36px;
+    text-align: left;
+    background-color: rgba(128, 255, 0, 0.451);
+}
+.titulo_h1{
+    color: rgb(255, 0, 204);
+    font-size: 36px;
+    text-align: left;
+    background-color: rgba(128, 255, 0, 0.451);
+}
+p{
+    color: rgb(0, 183, 255); 
+    background-color: rgba(255, 228, 196, 0.282);          
+    text-align: left;
+    font-size: 30px;
+    padding: 20px;
+}
